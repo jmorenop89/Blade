@@ -1,2 +1,2 @@
-# Blade
-Blade (JavaScript) effect like a fruits ninja
+# Blade (JavaScript)
+Effect like a fruits ninja
